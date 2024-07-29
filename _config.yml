@@ -1,5 +1,5 @@
-baseurl: '/'
-url: "https://ss756.github.io" # Your GitHub Pages URL
+baseurl: ''
+url: "" # Your GitHub Pages URL
 permalink: pretty
 title: 'ParadigmTech'
 
@@ -32,6 +32,8 @@ defaults:
       type: "team"
     values:
       layout: "team"
+
+theme: 
 
 sass:
   style: compressed # possible values: nested expanded compact compressed
