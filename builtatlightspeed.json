@@ -1,8 +1,7 @@
 {
-    "originRepo": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "title": "Jekyll Serif",
-    "description": "Serif is a multi page business theme for Jekyll.",
-    "demoUrl": "https://jekyll-advance.netlify.app",
+    "originRepo": "https://github.com/ss756",
+    "title": "ParadigmTech",
+    "description": "ParadigmTech Initial Website",
     "categories": {
       "ssg": ["jekyll"],
       "css": ["bootstrap", "scss"],

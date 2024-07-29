@@ -1,13 +1,14 @@
 baseurl: '/'
+url: "https://ss756.github.io" # Your GitHub Pages URL
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'ParadigmTech'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
   mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
+  desktop: "images/logo/paradigm_tech.png"
+  desktop_height: "18px"
   desktop_width: "120px"
 
 home: 
